@@ -24,3 +24,6 @@ Review completata e modifica corretta.
 ## Seconda direzione
 
 Contributo di francesco-cassese sul repository di francescocassese26, per completare la collaborazione nei due sensi.
+
+
+Direzione inversa completata.
